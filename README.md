@@ -1,7 +1,7 @@
 ![Us](assets/wallpaperflare.com_wallpaper.jpg)
 
 # Langgraph_Her
-An AI System built on Langgraph, because it's the best. Attempting to emulate something akin to the AI Samantha in the movie "Her".
+An AI System built on #[Langgraph](https://github.com/langchain-ai/langgraph), because it's the best. Attempting to emulate something akin to the AI Samantha in the movie "Her".
 
 ## Samantha V0 Blueprint
 
