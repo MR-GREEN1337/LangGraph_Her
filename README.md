@@ -13,9 +13,9 @@ Upon initial contemplation, here are the functionalities to be incorporated:
 - **Ability to execute code**
 
 ## TODO:
-**1. Speech capabilities**
-**2. User Interface**
-**3. Multi-modal LLM**
-**4. Code Execution**
-**5. Actions on Database**
-**6. Fix WebVoyager**
+- **1. Speech capabilities**
+- **2. User Interface**
+- **3. Multi-modal LLM**
+- **4. Code Execution**
+- **5. Actions on Database**
+- **6. Fix WebVoyager**
