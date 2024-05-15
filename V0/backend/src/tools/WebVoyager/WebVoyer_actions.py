@@ -1,6 +1,6 @@
 import asyncio
 import platform
-from WebVoyager import AgentState
+from schemas import AgentState
 
 async def click(state: AgentState):
     # - Click [Numerical_Label]
