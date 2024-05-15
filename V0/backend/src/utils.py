@@ -6,7 +6,11 @@ from langchain_core.messages import ToolMessage
 from langgraph.prebuilt import ToolNode
 
 def load_env():
-    pass
+    os.environ["GROQ_API_KEY"] = "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"
+    os.environ["TAVILY_API_KEY"] = "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"
+    os.environ["LANGCHAIN_API_KEY"] = "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"
+    os.environ["LANGCHAIN_TRACING_V2"] = "true"
+    os.environ["LANGCHAIN_PROJECT"] = "LangGraph Her"
 
 
 def handle_tool_error(state) -> dict:
