@@ -6,7 +6,7 @@ from langchain_core.messages import ToolMessage
 from langgraph.prebuilt import ToolNode
 
 def load_env():
-
+    pass
 
 def handle_tool_error(state) -> dict:
     error = state.get("error")

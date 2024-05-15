@@ -12,4 +12,10 @@ Upon initial contemplation, here are the functionalities to be incorporated:
 - **Web search capabilities**
 - **Ability to execute code**
 
-This initial agent currently only processes text, lacking memory and action history. Speech integration will be considered later in development.
+## TODO:
+**1. Speech capabilities**
+**2. User Interface**
+**3. Multi-modal LLM**
+**4. Code Execution**
+**5. Actions on Database**
+**6. Fix WebVoyager**
